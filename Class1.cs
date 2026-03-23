@@ -8,5 +8,9 @@ namespace PIS1
 {
     internal class Class1
     {
+        public void NovaMetoda()
+        {
+            Console.WriteLine("Ovo je nova metoda!");
+        }
     }
 }
